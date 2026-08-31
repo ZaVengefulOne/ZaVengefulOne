@@ -46,11 +46,6 @@
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ZaVengefulOne&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZaVengefulOne&theme=github_dark&hide_border=true" />
-</p>
-
-
 
 ---
 
