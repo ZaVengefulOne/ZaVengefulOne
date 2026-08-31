@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">Привет, я - Vengeful!</h1>
+<h3 align="center">Middle Kotlin Android Developer</h3>
 
-<!--
-**ZaVengefulOne/ZaVengefulOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://t.me/merciful_mint"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:vengefulmail@duck.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 🚀 Обо мне
+
+- Сейчас работаю над **Poetry Helper** и активно ищу работу!
+- Изучаю **Kotlin Multiplatform, Swift и Flutter**
+- В свободное время занимаюсь **Ролевыми играми живого действия** и **написанием стихов**
+- Как связаться - **vengefulmail@duck.com**
+
+---
+
+### 🛠️ Технологии и инструменты
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,git,github,firebase,gradle,postman" />
+</p>
+
+**Языки:** Kotlin, Java, Python
+**Android:** Jetpack Compose, XML/View System, Coroutines & Flow, Room, Navigation Component
+**Архитектура:** MVVM, Clean Architecture, Multi-module
+**Визуал:** Glide, Glance
+**DI:** Dagger2, Hilt
+**Сеть:** Retrofit, OkHttp, Ktor
+**Тестирование:** JUnit, MockK
+**Инструменты:** Git, Gradle (KTS), Firebase, CI/CD (GitHub Actions), Jenkins, Grafana
+
+---
+
+### 📊 Статистика GitHub
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZaVengefulOne&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### 📌 Избранные проекты
+
+| Проект | Описание | Стек |
+|---|---|---|
+| [Poet's Assistant](https://github.com/ZaVengefulOne/PoetsAssistant) | Помощник для написания стихов и обучения поэзии | Kotlin, Compose, MVVM, Room, Hilt |
+| [AdvLab_CityManager](https://github.com/ZaVengefulOne/AdvLab_CityManager) | Система управления городом для ролевой игры живого действия | Kotlin, Room, Retrofit, Ktor, KMM, Desktop Compose |
+
+---
