@@ -26,12 +26,19 @@
 </p>
 
 **Языки:** Kotlin, Java, Python
+
 **Android:** Jetpack Compose, XML/View System, Coroutines & Flow, Room, Navigation Component
+
 **Архитектура:** MVVM, Clean Architecture, Multi-module
+
 **Визуал:** Glide, Glance
+
 **DI:** Dagger2, Hilt
+
 **Сеть:** Retrofit, OkHttp, Ktor
+
 **Тестирование:** JUnit, MockK
+
 **Инструменты:** Git, Gradle (KTS), Firebase, CI/CD (GitHub Actions), Jenkins, Grafana
 
 ---
